@@ -1,6 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Monitoring.Data"
   ],
+  "SelectedNode": "\\Monitoring.Data\\Monitoring.Data.csproj",
   "PreviewInSolutionExplorer": false
 }
